@@ -1,0 +1,11 @@
+[package]
+name = "functional-graph"
+version = "0.1.0"
+edition = "2021"
+description = "Functional graph iteration, cycle detection, tree decomposition, and period analysis for x → f(x) mappings"
+license = "MIT"
+repository = "https://github.com/SuperInstance/functional-graph"
+keywords = ["functional-graph", "cycle-detection", "floyd", "graph", "math"]
+categories = ["mathematics", "algorithms"]
+
+[dependencies]
